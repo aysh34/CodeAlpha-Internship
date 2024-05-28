@@ -11,3 +11,10 @@ Build a command-line file manager that allows users to
 navigate directories, view files, create directories, and
 copy or move files. Use C++ file handling for this
 project
+
+# Task 3
+
+Sudoku Solver
+Write a program that solves Sudoku puzzles. Implement
+an algorithm to solve puzzles of varying difficulty
+levels.
