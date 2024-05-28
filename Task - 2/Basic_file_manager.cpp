@@ -88,7 +88,7 @@ void createDirectory()
 {
     string directory_name;
     cout << "Enter the name for new directory " << endl;
-    getline(cin, directory_name);
+    cin>>directory_name;
     string command = "mkdir " + directory_name;
     if (system(command.c_str()) == 0)
     {
